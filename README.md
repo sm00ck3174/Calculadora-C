@@ -9,4 +9,4 @@ Uma aplicação de calculadora de linha de comando simples e robusta, desenvolvi
 # 💡 Demonstração de Uso
 Ao iniciar, você verá um menu simples. O programa pedirá os números após a seleção da operação.
 
-![Console](file:///C:/Users/gabriel/Pictures/Screenshots/Captura%20de%20Tela%20(4).png)
+![Console](https://github.com/sm00ck3174/Calculadora-C/blob/main/Console%20Print.png?raw=true)
